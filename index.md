@@ -20,3 +20,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```javasccript
 const currentDate = Date.now();
 ```
+
+- [ ] Identify the project description and scope
+- [ ] Create a project timeline
+- [ ] Discuss possible threats and limitations of the project
+- [ ] Discuss the technologies to be used in the project
+- [ ] Distribute tasks
